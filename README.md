@@ -32,7 +32,7 @@ The data for this analysis was sourced, cleaned, and modeled in Power BI. Key fi
 - **Payment Preferences**: Customers using electronic checks tend to churn more compared to other payment methods.
 
 ## Image Preview
-![Dashboard View](https://github.com/muhdshahan/Customer-Churn-Dashboard/blob/main/Image%20view/one.png)
+![Dashboard View](https://github.com/muhdshahan/Customer-Churn-Dashboard/blob/main/Image%20view/one.png) (https://github.com/muhdshahan/Customer-Churn-Dashboard/blob/main/Image%20view/two.png) (https://github.com/muhdshahan/Customer-Churn-Dashboard/blob/main/Image%20view/three.png)
 
 ## Conclusion
 This dashboard provides actionable insights into customer churn trends, enabling businesses to target at-risk segments effectively. The focus on senior citizens and customers with month-to-month contracts highlights critical areas for intervention. By addressing churn drivers like online security, tenure, and payment methods, companies can improve retention strategies and enhance overall customer satisfaction.
