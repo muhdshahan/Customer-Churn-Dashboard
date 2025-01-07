@@ -32,10 +32,13 @@ The data for this analysis was sourced, cleaned, and modeled in Power BI. Key fi
 - **Payment Preferences**: Customers using electronic checks tend to churn more compared to other payment methods.
 
 ## Image Preview
+**Customer Segmentation**
 ![Dashboard View](https://github.com/muhdshahan/Customer-Churn-Dashboard/blob/main/Image%20view/one.png)
 
+**Churn Analysis**
 ![Dashboard View](https://github.com/muhdshahan/Customer-Churn-Dashboard/blob/main/Image%20view/two.png)
 
+**Revenue & Service Insights**
 ![Dashboard View](https://github.com/muhdshahan/Customer-Churn-Dashboard/blob/main/Image%20view/three.png)
 
 ## Conclusion
