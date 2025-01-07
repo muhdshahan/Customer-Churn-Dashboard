@@ -7,7 +7,7 @@ The **Customer Churn Analysis dashboard** provides a comprehensive view of custo
 - **Power BI** for dashboard creation.
 
 ## Dataset Used
-<a href="https://github.com/muhdshahan/PJ5-Students-Admission-Report/blob/main/student_admission_record_dirty.csv">Customer Churn Dataset</a>
+<a href="https://github.com/muhdshahan/Customer-Churn-Dashboard/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.csv">Customer Churn Dataset</a>
 
 ## Key Metrics
 - **Total Customers**: Displays the overall number of customers.
