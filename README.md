@@ -33,7 +33,9 @@ The data for this analysis was sourced, cleaned, and modeled in Power BI. Key fi
 
 ## Image Preview
 ![Dashboard View](https://github.com/muhdshahan/Customer-Churn-Dashboard/blob/main/Image%20view/one.png)
+
 ![Dashboard View](https://github.com/muhdshahan/Customer-Churn-Dashboard/blob/main/Image%20view/two.png)
+
 ![Dashboard View](https://github.com/muhdshahan/Customer-Churn-Dashboard/blob/main/Image%20view/three.png)
 
 ## Conclusion
